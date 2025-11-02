@@ -11,9 +11,14 @@ To write a Python program that defines a function which accepts two values and r
 5. Call the `result` function with the user-provided values.
 
 ## 🧾 Program
-
-Add code Here
+x=int(input())
+y=int(input())
+z=divmod(x,y)
+print(z)
 
 ## Output
+<img width="1149" height="275" alt="image" src="https://github.com/user-attachments/assets/e1278975-a131-4768-ab3b-5ce8e469287a" />
+
 
 ## Result
+Thus the  Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator was successfully completed
